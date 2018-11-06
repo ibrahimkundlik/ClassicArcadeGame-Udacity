@@ -1,10 +1,13 @@
 # Classic Arcade Game
+In classic arcade game the goal of the player is to reach the water, without colliding into any one of the enemies. 
+
+## Information about this repository
 This repository contains css, images, and js folders, as well as an index.html and a README.md file. 
-* The css folder contains a style.css file which you do not need to edit
+* The css folder contains a style.css file
 * The images folder contains the png image files, which are used when displaying the game. The images for the player and enemy character are going to be loaded from this folder.
-* The js folder also contains the app engine needed to run the game and a resources.js file. You do not need to edit these files.
-* Opening index.html should load the game
-* The README.md file should contain instructions on how to load and play the game (you will need to add those instructions).
+* The js folder also contains the app engine needed to run the game and a resources.js file.
+* Opening index.html should load the game.
+* The README.md file contains instructions on how to load and play the game.
 
 ## How The Game Works
 In this game you have a Player and Enemies (bugs). The goal of the player is to reach the water, without colliding into any one of the enemies. 
@@ -20,3 +23,6 @@ The game functions correctly and runs error free
 * Enemy-player collisions happen logically (not too early or too late)
 * Enemy-player collision resets the game
 * Something happens when player wins
+
+## Link for the game
+https://ibrahimkundlik.github.io/ClassicArcadeGame/
