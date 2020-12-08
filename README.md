@@ -25,4 +25,4 @@ The game functions correctly and runs error free
 * Something happens when player wins
 
 ## Link for the game
-https://ibrahimkundlik.github.io/ClassicArcadeGame/
+https://ibrahimkundlik.github.io/ClassicArcadeGame-Udacity/
